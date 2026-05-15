@@ -1,40 +1,3 @@
-# Hi there, I'm Bassem Kharchoufi 👋
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=4F46E5&center=true&vCenter=true&width=500&lines=Mobile+App+Developer+%F0%9F%93%B1;Flutter+%7C+Android+%7C+UI%2FUX;Always+learning+new+things+%F0%9F%9A%80" alt="Typing SVG" />
-</div>
-
----
-
-## 🙋‍♂️ About Me
-
-🎓 Master student in **Mobile Development Engineering** at ISG Gabès, Tunisia  
-📍 Medenine, Tunisia  
-💼 Looking for **Internship** or **Freelance** opportunities  
-📱 Passionate about building performant mobile apps & beautiful UI  
-📫 Reach me at: **Bassemkh160@gmail.com**
-
----
-
-## 🛠️ Tech Stack
-
-### 📱 Mobile
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-### 🌐 Web
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-
-### 🗄️ Database & Backend
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
@@ -83,9 +46,10 @@
 
 | Degree | School | Period |
 |--------|--------|--------|
-| 🎓 Master — Mobile Dev Engineering | ISG Gabès | 2025 – present |
+| 🎓 Master — Mobile Dev Engineering | ISG Gabès | 2026 – present |
 | 🎓 Licence — Information Systems Dev | ISET Siliana | 2023 – 2025 |
-| 📜 Baccalauréat — Économie & Gestion | Tunisie | 2022 |
+| 📜 Baccalauréat — Économie & Gestion | 
+Lycée bénikhedech| 2022 |
 
 ---
 
@@ -93,8 +57,8 @@
 
 | Position | Company | Year |
 |----------|---------|------|
-| Stage Fin d'Études | Outlying | 2024 |
-| Stage Perfectionnement | Mega Dev | 2023 |
+| Stage Fin d'Études | Outlying | 2025 |
+| Stage Perfectionnement | Mega Dev | 2024 |
 | Stage Initiation | Poste Beni Khedech | 2023 |
 
 ---
